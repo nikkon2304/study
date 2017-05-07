@@ -15,4 +15,4 @@ A bar magnet is a rectangular piece of object, made of iron, steel, nickel, coba
 
 ## Types of bar magnets?
 
-There are two types of bar magnets - 
+There are two types of bar magnets - natural and artificial. Natural bar magnets are weaker than artificial bar magnets.
